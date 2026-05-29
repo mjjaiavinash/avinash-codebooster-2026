@@ -1,4 +1,3 @@
-Try AI directly in your favourite apps … Use Gemini to generate drafts and refine content, plus get Gemini Pro with access to Google's next-gen AI
 # Day 1 — Student Reference Guide
 ## Introduction to Data Engineering + GitHub
 ### Codeboosters Tech — Data Engineering + GenAI Internship Program
